@@ -15,7 +15,9 @@ namespace WhiteLagoon.Web.Controllers
 
         public IActionResult Index()
         {
+            string t = "";
             return View();
+            
         }
 
         public IActionResult Privacy()
