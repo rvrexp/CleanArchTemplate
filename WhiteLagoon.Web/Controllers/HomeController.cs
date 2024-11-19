@@ -15,6 +15,7 @@ namespace WhiteLagoon.Web.Controllers
 
         public IActionResult Index()
         {
+            int t = 2;
             return View();
         }
 
