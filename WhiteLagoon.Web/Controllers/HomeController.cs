@@ -17,6 +17,7 @@ namespace WhiteLagoon.Web.Controllers
         {
             int t = 2;
             string tr = "";
+            string get = "sen";
             return View();
             
         }
